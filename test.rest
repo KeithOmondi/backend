@@ -1,0 +1,7 @@
+POST http://localhost:8000/api/v2/client/login-client
+Content-Type: application/json
+
+{
+  "email": "denniskeith62@gmail.com",
+  "password": "dennis"
+}
